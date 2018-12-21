@@ -1,20 +1,17 @@
 # p2p-social : the social network powered by your phone
 
 ## Why ?
-The recent changes on tumblr have highlighted a number of problems with centralised social networks : they operate for profit. Despite this, the progress of decentralised, mostly federated networks like mastadon and diaspora have stalled. People seem to struggle with the idea of a federal network and can't get behind them, in addition to this, due to people overcrowding single instances, operating costs for the hosts of these federated networks are growing incessantly.
+
+The recent changes on tumblr have only further highlighted the issues with centralised networks, despite this, federated networks have failed to progress, primarily due to people flooding to single instances instead of spreading out across instances. In adidtion to this the cost of operating social networks  is  enormous, but what if there was another way ?  Every day we carry around a powerful computer in our pockets, and at night, we plug it in to charge and it sits doing nothing. What if we could leverage these devices when they sit idle to operate a social network ? 
 
 ## What ?
-A new, hybrid network, powered by p2p and coordinated by servers, which has the advantages of a traditional network like tumblr without the excessive operating costs.
+A new, hybrid network, powered by p2p and coordinated by traditional servers, which has the advantages of a traditional network like tumblr without the excessive operating costs.
 
 ## How ?
-The biggest barrier to launching a new social network is capacity : With 72 million posts today, networks like tumblr require large scale storage to cope with demand, but what is ironic is that a social network in its very essence would function better as a peer to peer network.
-
-The issue with this is that an always-on device is required to serve the content, except there are already 4.5 billion devices like  this on earth, and we all have one : our phones. When we plug them in to charge at night they sit idle, the combined storage potential of these devices could be incredible.
-
-However, the network cannot operate using mobile devices alone, servers would be required to coordinate identities and help users discover content. This whitepaper aims to imagine a comprehensive vision of such a network, with the technical details required to build it, where possible, using existing technologies. It also aims to  set out a structure allowing for the management of the community based on a system of basic values.
+This is what remains to be seen,  the goal of this whitepaper is to create a comprehensive vision of the network, with the technical details required to build it, where posisble, with existing technologies, it also aims to set out a structure of network stewardship to deal with issues such as moderation and the costs of operation.
 
 ## An invitation :
-Thank you for taking the time to read this Introduction, The most important part of this project is your input : Everyone can contribute something, with no technical knowledge required, we will discuss the technical implementability of any ideas proposed here, The format of this repository is also up for discussion, Please feel free to open Issues concerning the layout or any of the aspects mentioned in the project, and pull requests with your ideas !
+Thank you for taking the time to read this Introduction, The most important part of this project is your input : Everyone can contribute something, with no technical knowledge required. Ideas should be posted in the form of Github Issues during elaboration, once fully elaborated they can be properly written up and added to the whitepaper.
 
 ## Table of Contents
 
