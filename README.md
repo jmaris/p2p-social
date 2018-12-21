@@ -20,15 +20,20 @@ Thank you for taking the time to read this Introduction, The most important part
 
 ### The Client
 [Posts](client/posts.md)
+
 [p2p architecture](client/p2p.md)
+
 [Reblogging & Liking](client/repost_like.md)
+
 [User Identities on the Network](client/id.md)
 
 ### The Servers
 [Identity Server](server/identity.md)
+
 [Discover Servers](server/discovery.md)
 
 ### The Community
 [Rewarding p2p contribution](community/reward.md)
+
 [Moderation in the Community](community/mods.md)
 [Stewardship and Operating Costs](community/stewardship.md)
