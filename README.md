@@ -36,4 +36,5 @@ Thank you for taking the time to read this Introduction, The most important part
 [Rewarding p2p contribution](community/reward.md)
 
 [Moderation in the Community](community/mods.md)
+
 [Stewardship and Operating Costs](community/stewardship.md)
