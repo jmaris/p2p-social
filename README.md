@@ -1,4 +1,4 @@
-# p2p-tumblr : the social network powered by your phone
+# p2p-social : the social network powered by your phone
 
 ## Why ?
 The recent changes on tumblr have highlighted a number of problems with centralised social networks : they operate for profit. Despite this, the progress of decentralised, mostly federated networks like mastadon and diaspora have stalled. People seem to struggle with the idea of a federal network and can't get behind them, in addition to this, due to people overcrowding single instances, operating costs for the hosts of these federated networks are growing incessantly.
